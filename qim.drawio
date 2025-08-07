@@ -1,9 +1,50 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
   <diagram name="第 1 页" id="bIdVSzJIYn8sq_PgKWs4">
-    <mxGraphModel>
+    <mxGraphModel dx="695" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fq8htLOQRGSK4G1mC-_9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fq8htLOQRGSK4G1mC-_9-4" target="fq8htLOQRGSK4G1mC-_9-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fq8htLOQRGSK4G1mC-_9-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fq8htLOQRGSK4G1mC-_9-4" target="fq8htLOQRGSK4G1mC-_9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fq8htLOQRGSK4G1mC-_9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fq8htLOQRGSK4G1mC-_9-4" target="fq8htLOQRGSK4G1mC-_9-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fq8htLOQRGSK4G1mC-_9-4" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 22px; color: rgb(255, 255, 255);&quot;&gt;CNV-QIM算法&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;量化索引调制&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#004C99,#3399FF);strokeColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="300" y="240" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fq8htLOQRGSK4G1mC-_9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fq8htLOQRGSK4G1mC-_9-6" target="fq8htLOQRGSK4G1mC-_9-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fq8htLOQRGSK4G1mC-_9-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;码本划分&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="220" y="360" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fq8htLOQRGSK4G1mC-_9-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fq8htLOQRGSK4G1mC-_9-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380.0204081632652" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fq8htLOQRGSK4G1mC-_9-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;矢量映射&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="330" y="360" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fq8htLOQRGSK4G1mC-_9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fq8htLOQRGSK4G1mC-_9-10" target="fq8htLOQRGSK4G1mC-_9-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fq8htLOQRGSK4G1mC-_9-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;索引检测&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="440" y="360" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fq8htLOQRGSK4G1mC-_9-11" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;K-means分类N个子集&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="220" y="430" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fq8htLOQRGSK4G1mC-_9-13" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;检测索引位置恢复数据&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="440" y="430" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fq8htLOQRGSK4G1mC-_9-15" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;选择量化区间嵌入信息&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="330" y="430" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
