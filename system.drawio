@@ -55,7 +55,7 @@
         <mxCell id="2LB2E-b144crgpFgYG6U-36" value="&lt;font face=&quot;Times New Roman&quot;&gt;非同分布场景&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=25;convertToSvg=1;fillColor=none;strokeColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="880" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2LB2E-b144crgpFgYG6U-37" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 22px;&quot;&gt;未知隐写算法的泛化问题&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#66B2FF,#007FFF);strokeColor=#6c8ebf;fontFamily=Times New Roman;textShadow=1;fillStyle=auto;gradientColor=#3399FF;" vertex="1" parent="1">
+        <mxCell id="2LB2E-b144crgpFgYG6U-37" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 22px;&quot;&gt;未知隐写算法的泛化问题&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#66B2FF,#007FFF);strokeColor=#6c8ebf;fontFamily=Times New Roman;textShadow=1;fillStyle=auto;gradientColor=#3399FF;labelBorderColor=default;" vertex="1" parent="1">
           <mxGeometry x="1030" y="310" width="430" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2LB2E-b144crgpFgYG6U-38" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;低嵌入率&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#66B2FF,#007FFF);strokeColor=#6c8ebf;fontFamily=Times New Roman;textShadow=1;fillStyle=auto;gradientColor=#3399FF;" vertex="1" parent="1">
